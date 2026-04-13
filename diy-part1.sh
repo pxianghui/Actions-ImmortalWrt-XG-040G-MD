@@ -11,4 +11,4 @@
 #
 # Uncomment a feed source
 # sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
-
+git clone --depth 1 https://github.com/lmq8267/luci-app-vnt package/luci-app-vnt
